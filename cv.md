@@ -1,6 +1,6 @@
 Vladislav Klimakhovich
 
-Contact Info 
+Contact Info: 
   1. Mobile phone:+375445369199 
   2. Email: Klimaxovich@mail.ru
   
