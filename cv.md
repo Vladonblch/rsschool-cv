@@ -1,15 +1,16 @@
-1. First Name, Last Name: Vladislav Klimahovich
-2. Contact Info (add several ways to contact you)
+Vladislav Klimakhovich
+
+Contact Info 
   1. Mobile phone:+375445369199 
   2. Email: Klimaxovich@mail.ru
-3. Summary (your goal, wishes, reveal what is important for you, what do you want and why.
-Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
-learning new things from everywhere etc.).
+  
+I have an analytical mind and good concentration and I also like working in a team. My goal is to become a front-end developer.
 
-4. Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.)
-5. Code examples (LATEST)
-6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-freelance projects - wherever they had the opportunity to demonstrate skills they have.
-Also it would be awesome if you add links to source code)
-7. Education (including courses, seminars, lectures, online learning)
-8. English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
+Skills: Git, HTML, CSS, JS basics, C++, C
+
+I have no work experience yet.  
+
+I am studying at BSUIR, faculty of engineering and economics
+
+According to training.by my English level is A2
+
